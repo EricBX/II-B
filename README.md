@@ -1,6 +1,3 @@
 # II-B
-A group work in spring 2016.
-A small car with MSP430 as controller 
-is remotely controlled by a computer 
-using the bluetooth.
-As for theThe input is 
+This is a group work with my roommates in spring 2016.
+A small car with a MSP 430 micro-controller is remotely controlled by a computer using the bluetooth, following the black line in the ground from the start point to the destination.
